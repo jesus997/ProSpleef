@@ -1,4 +1,5 @@
 ProSpleef
 =========
 
-Plugin sexy de spllef modificado :3
+Simple Spleef modificado.
+Autores: Jesus997 && ChikenGamer
