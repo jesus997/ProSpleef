@@ -1,0 +1,11 @@
+name: ProSpleef
+version: 1.0
+description: Tipico Minijuego Spleef ligeramente modificado.
+authors: [MrJesus997, ChikenGamer]
+website: www.iberians.hol.es
+main: me.CodigoPaisano.Spleef.Spleef
+softdepend: [TagAPI, Vault]
+prefix: IVM
+commands:
+
+permissions:
