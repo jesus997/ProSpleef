@@ -19,11 +19,10 @@ public class Arena {
     private int minPlayer, maxPlayers;
     public Estado estado = Estado.SinIniciar;
     
-    public Arena(String name, Location joinLocation, Location endLocation, ArrayList<Location> spawns, int minPlayers, int maxPlayers){
+    public Arena(String name, Location joinLocation, Location endLocation, int minPlayers, int maxPlayers){
         this.Arenaname = name;
         this.joinLocation = joinLocation;
         this.endLocation = endLocation;
-        this.spawns = spawns;
         this.minPlayer = minPlayers;
         this.maxPlayers = maxPlayers;
         
